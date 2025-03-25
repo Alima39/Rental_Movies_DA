@@ -77,37 +77,37 @@ Retrieve customer first name, last name, and email ID.
 ![Rental Popularity](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/popularity.png)
 
 ### 8. Top 10 Grossing Films
-![Revenue per Film](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/REVENUE.png)
+![Revenue per Film](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/REVENUE.png)
 
 ### 9. Highest Spending Customer
-![Most Spending Customer](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_SPENDING_CUSTOMER.png)
+![Most Spending Customer](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/MOST_SPENDING_CUSTOMER.png)
 
 ### 10. Store with Most Revenue
-![Highest Revenue Store](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_REVENUE.png)
+![Highest Revenue Store](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/MOST_REVENUE.png)
 
 ### 11. Monthly Rentals Count
-![Rentals Per Month](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/RENTALS_PER_MONTH.png)
+![Rentals Per Month](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/RENTALS_PER_MONTH.png)
 
 ### 12. Customers Eligible for Rewards
-![Reward Eligible Customers](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/REWARD_VIA_PHONE.png)
+![Reward Eligible Customers](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/REWARD_VIA_PHONE.png)
 
 ### 13. Payments from First 100 Customers
-![First 100 Customer Payments](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FIRST_100_CUSTOMER_PAYMENTS.png)
+![First 100 Customer Payments](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/FIRST_100_CUSTOMER_PAYMENTS.png)
 
 ### 14. Payments Over $5 Since Jan 1, 2006
-![Payments Over $5](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/JAN_06_2006.png)
+![Payments Over $5](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/JAN_06_2006.png)
 
 ### 15. Payments Over $5 for Specific Customers
-![Payments Over $5](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/PAYMENTS_OVER_%245.png)
+![Payments Over $5](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/PAYMENTS_OVER_%245.png)
 
 ### 16. Films with 'Behind the Scenes' Special Feature
-![Behind the Scenes Films](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/BTS.png)
+![Behind the Scenes Films](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/BTS.png)
 
 ### 17. Unique Movie Ratings and Count
-![Unique Ratings](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/UNI_MOVIES_RATINGS_%26_NO_OF_MOVIES.png)
+![Unique Ratings](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/UNI_MOVIES_RATINGS_%26_NO_OF_MOVIES.png)
 
 ### 18. Titles Count by Rental Duration
-![Rental Duration Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/SLICED_BY_RENTAL_RATE.png)
+![Rental Duration Count](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/SLICED_BY_RENTAL_RATE.png)
 
 ### 19. Ratings, Movie Count, Length, and Rental Duration
 ![Ratings and Rental Duration](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/COMPARE_WITH_RENTAL_DURATION.png)
