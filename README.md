@@ -110,13 +110,13 @@ Retrieve customer first name, last name, and email ID.
 ![Rental Duration Count](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/SLICED_BY_RENTAL_RATE.png)
 
 ### 19. Ratings, Movie Count, Length, and Rental Duration
-![Ratings and Rental Duration](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/COMPARE_WITH_RENTAL_DURATION.png)
+![Ratings and Rental Duration](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/COMPARE_WITH_RENTAL_DURATION.png)
 
 ### 20. Film Count by Replacement Cost with Rental Rates
-![Replacement Cost Analysis](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MIN_MAX_AVG.png)
+![Replacement Cost Analysis](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/MIN_MAX_AVG.png)
 
 ### 21. Customers with Less Than 15 Rentals
-![Low Rental Customers](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/less_15.png)
+![Low Rental Customers](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/less_15.png)
 
 ### 22. Longest Films Sorted by Length and Rental Rate
 ![Longest Films](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/longestfilms_sort.png)
