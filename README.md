@@ -1,7 +1,6 @@
-# Rental_Movies_DA
-# 🎬 Maven Movies: Unlocking Insights for a Rental Business
+# 🎬 Maven Rental Movies: Unlocking Insights for a Rental Business
 
-![Project Banner](https://github.com/Sayali821/Mavenmovies/blob/200eb076804152c5e1ba46638a60a3a5d01c34c1/banner.jpg)
+![Project Banner](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/banner.jpg)
 
 ## 📌 Project Overview
 This project focuses on analyzing the *MAVENMOVIES* database to extract valuable insights that can enhance business operations, marketing strategies, and inventory management. SQL is extensively used to perform exploratory data analysis (EDA), understand the database schema, and answer critical business queries.
@@ -62,7 +61,7 @@ Retrieve customer first name, last name, and email ID.
 ![Cheapest Rental](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/Rental%20rate%20and%20Movie%20Count.PNG))
 
 ### 3. Rental Rate Distribution and Movie Count
-![Total Movies per Rental Rate](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/TOTAL_NO_OF_MOVIES.png)
+![Total Movies per Rental Rate](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/TOTAL_NO_OF_MOVIES.png)
 
 ### 4. Most Common Movie Rating
 ![Rating Count](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/Most%20Common%20Movie%20Rating.PNG)
@@ -119,24 +118,24 @@ Retrieve customer first name, last name, and email ID.
 ![Low Rental Customers](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/less_15.png)
 
 ### 22. Longest Films Sorted by Length and Rental Rate
-![Longest Films](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/longestfilms_sort.png)
+![Longest Films](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/longestfilms_sort.png)
 
 ### 23. Categorization of Movies by Length
-![Movies Categorized by Length](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/SLICED_BY_RENTAL_RATE.png)
+![Movies Categorized by Length](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/SLICED_BY_RENTAL_RATE.png)
 
 ### 24. Movie Recommendations by Age Group
-![Age-Based Recommendations](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FIT_FOR_RECOMMENDATION.png)
+![Age-Based Recommendations](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/FIT_FOR_RECOMMENDATION.png)
 
 ### 25. Films Inventory List
-![Films in Inventory](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FILMS_IN_INVENTORY.png)
+![Films in Inventory](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/FILMS_IN_INVENTORY.png)
 
 ### 26. Actor Movie Count
-![Actor Movie Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/NO_OF_FILMS_BY_ACTOR.png)
+![Actor Movie Count](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/NO_OF_FILMS_BY_ACTOR.png)
 
 ### 27. Number of Actors per Film
-![Actors per Title](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/ACTOR_ASSOCIATED_WITH_TITLE.png)
+![Actors per Title](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/ACTOR_ASSOCIATED_WITH_TITLE.png)
 
 ### 28. List of Staff and Advisors
-![Staff and Advisors](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/UNION.png)
+![Staff and Advisors](https://github.com/Alima39/Rental_Movies_DA/blob/main/Outputs/UNION.png)
 
 ---
